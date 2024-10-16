@@ -113,5 +113,3 @@ Hệ thống quản lý GYM là một ứng dụng Java được phát triển �
 
 ## Liên Hệ
 - Tác giả: Chu Việt Long
-		Vũ Viết Tuấn
-		Dương Trung Kiên
