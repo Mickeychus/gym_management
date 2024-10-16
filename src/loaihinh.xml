@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LoaiHinhs>
+    <LoaiHinh>
+        <MaLoaiHinh>1</MaLoaiHinh>
+        <TenLoaiHinh>Cadio</TenLoaiHinh>
+    </LoaiHinh>
+    <LoaiHinh>
+        <MaLoaiHinh>2</MaLoaiHinh>
+        <TenLoaiHinh>Lưng</TenLoaiHinh>
+    </LoaiHinh>
+    <LoaiHinh>
+        <MaLoaiHinh>3</MaLoaiHinh>
+        <TenLoaiHinh>Bụng</TenLoaiHinh>
+    </LoaiHinh>
+    <LoaiHinh>
+        <MaLoaiHinh>4</MaLoaiHinh>
+        <TenLoaiHinh>Chân</TenLoaiHinh>
+    </LoaiHinh>
+    <LoaiHinh>
+        <MaLoaiHinh>5</MaLoaiHinh>
+        <TenLoaiHinh>Ngực</TenLoaiHinh>
+    </LoaiHinh>
+</LoaiHinhs>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhongTaps>
+    <PhongTap>
+        <MaPhongTap>1</MaPhongTap>
+        <TenPhongTap>Phòng A</TenPhongTap>
+        <DiaChi>Sảnh A</DiaChi>
+    </PhongTap>
+    <PhongTap>
+        <MaPhongTap>2</MaPhongTap>
+        <TenPhongTap>Phòng B</TenPhongTap>
+        <DiaChi>Sảnh B</DiaChi>
+    </PhongTap>
+</PhongTaps>

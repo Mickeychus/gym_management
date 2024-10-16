@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HuanLuyenViens>
+    <HuanLuyenVien>
+        <MaHuanLuyenVien>2</MaHuanLuyenVien>
+        <HoTen>hddshewuew</HoTen>
+        <Tuoi>45</Tuoi>
+        <DiaChi>dscss</DiaChi>
+    </HuanLuyenVien>
+    <HuanLuyenVien>
+        <MaHuanLuyenVien>3</MaHuanLuyenVien>
+        <HoTen>dsadc</HoTen>
+        <Tuoi>45</Tuoi>
+        <DiaChi>frrfe</DiaChi>
+    </HuanLuyenVien>
+</HuanLuyenViens>

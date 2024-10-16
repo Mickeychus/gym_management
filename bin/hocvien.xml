@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HocViens>
+    <HocVien>
+        <MaHocVien>1</MaHocVien>
+        <HoTen>Mai Thanh Toan</HoTen>
+        <Tuoi>22</Tuoi>
+        <DiaChi>Ha Noi</DiaChi>
+    </HocVien>
+    <HocVien>
+        <MaHocVien>2</MaHocVien>
+        <HoTen>Mai Thanh Ban</HoTen>
+        <Tuoi>22</Tuoi>
+        <DiaChi>Ha Noi</DiaChi>
+    </HocVien>
+</HocViens>
